@@ -1,0 +1,1 @@
+export { default as OneService } from './one.service';
