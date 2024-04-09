@@ -1,3 +1,3 @@
-import { OneService } from './dist/app.esm.js';
+import { OneModel } from './dist/app.esm.js';
 
-console.log(new OneService().getName())
+console.log(new OneModel());
